@@ -12,7 +12,7 @@
 - Jalankan command "composer Install"
 - Jalankan command "php artisan migrate"
 - Jalankan command "php artisan serve"
-- Gunakan link ini untuk test API **TEST**
+- Gunakan link ini untuk test API **[Link](https://bit.ly/PayrollDocumentationAPI)**
 
 ## About Laravel
 
