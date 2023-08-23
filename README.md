@@ -8,6 +8,7 @@
 </p>
 
 ## Setup Project
+- Gunakan .env default
 - Rubah .env pada DB_NAME:  payroll
 - Jalankan command "composer Install"
 - Jalankan command "php artisan migrate"
