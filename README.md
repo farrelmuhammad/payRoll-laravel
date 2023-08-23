@@ -8,8 +8,8 @@
 </p>
 
 ## Setup Project
-- Gunakan .env default
-- Rubah .env pada DB_NAME:  payroll
+- Gunakan ```.env``` default
+- Rubah ```.env``` pada DB_NAME:  payroll
 - Jalankan command "composer Install"
 - Jalankan command "php artisan migrate"
 - Jalankan command "php artisan serve"
